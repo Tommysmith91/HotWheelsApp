@@ -1,7 +1,9 @@
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\bin\Debug\net6.0\HotWheelsApp.HttpClients.deps.json
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\bin\Debug\net6.0\HotWheelsApp.HttpClients.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\bin\Debug\net6.0\HotWheelsApp.HttpClients.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\bin\Debug\net6.0\HotWheels.App.Application.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\bin\Debug\net6.0\HotWheelsApp.Domain.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\bin\Debug\net6.0\HotWheels.App.Application.pdb
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\bin\Debug\net6.0\HotWheelsApp.Domain.pdb
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\obj\Debug\net6.0\HotWheelsApp.HttpClients.csproj.AssemblyReference.cache
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\obj\Debug\net6.0\HotWheelsApp.HttpClients.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,5 +15,3 @@ C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\o
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\obj\Debug\net6.0\refint\HotWheelsApp.HttpClients.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\obj\Debug\net6.0\HotWheelsApp.HttpClients.pdb
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\obj\Debug\net6.0\ref\HotWheelsApp.HttpClients.dll
-C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\bin\Debug\net6.0\HotWheels.App.Application.dll
-C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.HttpClients\bin\Debug\net6.0\HotWheels.App.Application.pdb

@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheels.Blazor.WebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\MWidS5OP.gz",
+      "Id": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheels.Blazor.WebAssemblyApp\\obj\\Debug\\net6.0\\build-gz\\TQptNOeO.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
       "Id": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheels.Blazor.WebAssemblyApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\HotWheels.Blazor.WebAssemblyApp.styles.css",
       "PackagePath": "staticwebassets\\HotWheels.Blazor.WebAssemblyApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheels.Blazor.WebAssemblyApp\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheels.Blazor.WebAssemblyApp\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
       "Id": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheels.Blazor.WebAssemblyApp\\wwwroot\\css\\app.css",

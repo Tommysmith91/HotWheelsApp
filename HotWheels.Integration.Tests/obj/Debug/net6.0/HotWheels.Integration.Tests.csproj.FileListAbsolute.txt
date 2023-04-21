@@ -11,8 +11,13 @@ C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Test
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\HotWheels.Integration.Tests.runtimeconfig.json
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\HotWheels.Integration.Tests.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\HotWheels.Integration.Tests.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\AutoFixture.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Docker.DotNet.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Docker.DotNet.X509.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Fare.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
@@ -48,6 +53,8 @@ C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Test
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -55,7 +62,9 @@ C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Test
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\System.Runtime.Caching.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Testcontainers.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -150,5 +159,3 @@ C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Test
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\obj\Debug\net6.0\HotWheels.Integration.Tests.pdb
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\obj\Debug\net6.0\HotWheels.Integration.Tests.genruntimeconfig.cache
 C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\obj\Debug\net6.0\ref\HotWheels.Integration.Tests.dll
-C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\AutoFixture.dll
-C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.Integration.Tests\bin\Debug\net6.0\Fare.dll

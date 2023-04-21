@@ -1,10 +1,12 @@
 ﻿@page "/create"
-<h3>Create</h3>
 
+
+<h3>Create</h3>
 <PageTitle>Add Car</PageTitle>
 
-<p>Add new cars to your collection below!</p>
-
+<AuthorizeView>
+    <Authorized Context="auth">
+<p>Hey @auth.User?.Identity?.Name, Add new cars to your collection below!</p>
 <div class="col-lg-6">
     <EditForm Model="_hotWheel" OnValidSubmit="HandleValidSubmit" class="p-3 border">
             <div class="form-group">
@@ -50,4 +52,9 @@
             <DataAnnotationsValidator/>
             <ValidationSummary/>
         </EditForm>
-</div>
+</div>        
+    </Authorized>
+    <NotAuthorized>
+       <p>Please Login To Create New Database Entries</p>
+    </NotAuthorized>
+</AuthorizeView>
