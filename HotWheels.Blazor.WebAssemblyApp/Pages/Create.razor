@@ -1,0 +1,53 @@
+﻿@page "/create"
+<h3>Create</h3>
+
+<PageTitle>Add Car</PageTitle>
+
+<p>Add new cars to your collection below!</p>
+
+<div class="col-lg-6">
+    <EditForm Model="_hotWheel" OnValidSubmit="HandleValidSubmit" class="p-3 border">
+            <div class="form-group">
+                <div class="form-floating mb-3">
+                <InputText id="CarCode" @bind-Value="_hotWheel.CarCode" placeholder="Car Code" class="form-control bg-light border"></InputText>
+                <label for="CarCode">Car Code</label>
+                </div>
+            </div>           
+            <div class="form-group">
+                <div class="form-floating mb-3">
+                <InputText id="Model Name" @bind-Value="_hotWheel.ModelName" placeholder="Model Name" class="form-control bg-light border"></InputText>
+                <label for="Model Name">Model Name</label>
+                </div>
+            </div>            
+            <div class="form-group">
+                <div class="form-floating mb-3">
+                    <InputNumber id="CollectionNumber" @bind-Value="_hotWheel.CollectionNumber" placeholder="Collection Number" class="form-control bg-light border"></InputNumber>
+                <label for="CollectionNumber">Collection Number</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="form-floating mb-3">
+                <InputText @bind-Value="_hotWheel.Series" id="Series" class="form-control bg-light border" />
+                    <label for="Series">Series</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="form-floating mb-3">
+                <InputNumber TValue="int" @bind-Value="_hotWheel.SeriesNumber" id="SeriesNumber" class="form-control bg-light border" />
+                <label for="SeriesNumber">SeriesNumber</label>
+                </div>
+            </div>
+        <div class="form-group">
+            <div class="form-floating mb-3">
+                <InputText TValue="int" @bind-Value="_hotWheel.ImageUrl" id="ImageUrl" class="form-control bg-light border" />
+                <label for="ImageUrl">Image Url</label>
+            </div>
+        </div>
+            
+            <div class="text-right mt-4">
+                <button type="submit" class="btn btn-primary">Save</button>
+            </div>
+            <DataAnnotationsValidator/>
+            <ValidationSummary/>
+        </EditForm>
+</div>

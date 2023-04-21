@@ -1,0 +1,46 @@
+﻿@page "/yourcollection"
+@using HotWheelsApp.Domain
+@using HotWheelsApp.HttpClients
+@inject HttpClient Http
+
+<PageTitle>Your Collection</PageTitle>
+
+<h1>Your Collection</h1>
+
+<p>See cars from your collection below!</p>
+
+@if (_hotWheels == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Car Code</th>
+                <th>CollectionNumber</th>
+                <th>Name</th>
+                <th>Series</th>
+                <th>Series number</th>
+                <th>Image</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var hw in _hotWheels)
+            {
+                <tr>
+                    <td>@hw.CarCode</td>
+                    <td>@hw.CollectionNumber</td>
+                    <td>@hw.ModelName</td>
+                    <td>@hw.Series</td>
+                    <td>@hw.SeriesNumber</td>
+                    <td><img src="@hw.ImageUrl"/></td>
+                    <td><button class="btn btn-sm btn-danger" @onclick="() => Delete(hw.Id)">Delete</button></td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}

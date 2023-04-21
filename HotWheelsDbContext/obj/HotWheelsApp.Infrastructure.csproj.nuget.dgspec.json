@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Infrastructure\\HotWheelsApp.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Domain\\HotWheelsApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Domain\\HotWheelsApp.Domain.csproj",
+        "projectName": "HotWheelsApp.Domain",
+        "projectPath": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Domain\\HotWheelsApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tommy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tommy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\nuget.local": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/CloudCommerceGroup/_packaging/CloudCommerceGroup/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Infrastructure\\HotWheelsApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Infrastructure\\HotWheelsApp.Infrastructure.csproj",
+        "projectName": "HotWheelsDbContext",
+        "projectPath": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Infrastructure\\HotWheelsApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Tommy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsDbContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tommy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\nuget.local": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/CloudCommerceGroup/_packaging/CloudCommerceGroup/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Domain\\HotWheelsApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Domain\\HotWheelsApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

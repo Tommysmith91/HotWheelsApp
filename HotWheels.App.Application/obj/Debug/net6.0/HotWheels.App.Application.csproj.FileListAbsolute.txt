@@ -1,0 +1,12 @@
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\bin\Debug\net6.0\HotWheels.App.Application.deps.json
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\bin\Debug\net6.0\HotWheels.App.Application.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\bin\Debug\net6.0\HotWheels.App.Application.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\obj\Debug\net6.0\HotWheels.App.Application.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\obj\Debug\net6.0\HotWheels.App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\obj\Debug\net6.0\HotWheels.App.Application.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\obj\Debug\net6.0\HotWheels.App.Application.AssemblyInfo.cs
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\obj\Debug\net6.0\HotWheels.App.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\obj\Debug\net6.0\HotWheels.App.Application.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\obj\Debug\net6.0\refint\HotWheels.App.Application.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\obj\Debug\net6.0\HotWheels.App.Application.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheels.App.Application\obj\Debug\net6.0\ref\HotWheels.App.Application.dll

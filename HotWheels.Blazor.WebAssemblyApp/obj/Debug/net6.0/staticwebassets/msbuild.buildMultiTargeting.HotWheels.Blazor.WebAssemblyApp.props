@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HotWheels.Blazor.WebAssemblyApp.props" />
+</Project>

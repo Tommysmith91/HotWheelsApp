@@ -1,0 +1,17 @@
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\bin\Debug\net6.0\HotWheelsDbContext.deps.json
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\bin\Debug\net6.0\HotWheelsDbContext.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\bin\Debug\net6.0\HotWheelsDbContext.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\HotWheelsDbContext.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\HotWheelsDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\HotWheelsDbContext.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\HotWheelsDbContext.AssemblyInfo.cs
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\HotWheelsDbContext.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\HotWheelsDbContext.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\refint\HotWheelsDbContext.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\HotWheelsDbContext.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\ref\HotWheelsDbContext.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\bin\Debug\net6.0\HotWheelsDbContext.runtimeconfig.json
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\HotWheelsDbContext.genruntimeconfig.cache
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\bin\Debug\net6.0\HotWheelsApp.Domain.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\bin\Debug\net6.0\HotWheelsApp.Domain.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsDbContext\obj\Debug\net6.0\HotWheelsDbContext.csproj.CopyComplete

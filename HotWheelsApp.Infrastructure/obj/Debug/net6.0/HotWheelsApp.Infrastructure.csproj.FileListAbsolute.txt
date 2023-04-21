@@ -1,0 +1,17 @@
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\bin\Debug\net6.0\HotWheelsApp.Infrastructure.deps.json
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\bin\Debug\net6.0\HotWheelsApp.Infrastructure.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\bin\Debug\net6.0\HotWheelsApp.Infrastructure.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\bin\Debug\net6.0\HotWheelsApp.Domain.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\bin\Debug\net6.0\HotWheelsDbContext.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\bin\Debug\net6.0\HotWheelsApp.Domain.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\bin\Debug\net6.0\HotWheelsDbContext.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\obj\Debug\net6.0\HotWheelsApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\obj\Debug\net6.0\HotWheelsApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\obj\Debug\net6.0\HotWheelsApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\obj\Debug\net6.0\HotWheelsApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\obj\Debug\net6.0\HotWheelsApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\obj\Debug\net6.0\HotWheelsApp.Infrastructure.csproj.CopyComplete
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\obj\Debug\net6.0\HotWheelsApp.Infrastructure.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\obj\Debug\net6.0\refint\HotWheelsApp.Infrastructure.dll
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\obj\Debug\net6.0\HotWheelsApp.Infrastructure.pdb
+C:\Users\Tommy\source\PersonalRepo\HotWheelsDbContext\HotWheelsApp.Infrastructure\obj\Debug\net6.0\ref\HotWheelsApp.Infrastructure.dll

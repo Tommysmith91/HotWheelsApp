@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7XPpd0NOCDP+zmmt0JCkyqWaI3ze1nwde4cE/GZix+T/Yt92QZ8gb3UH1JkGzkjNx1JW0cZc+cWP8jYu73y5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tommy\\source\\PersonalRepo\\HotWheelsDbContext\\HotWheelsApp.Domain\\HotWheelsApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tommy\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
